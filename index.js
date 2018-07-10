@@ -10,3 +10,7 @@ function inc(n) {
   n++
   return n
 }
+
+function subtract(a, b) {
+  return a - b
+}
